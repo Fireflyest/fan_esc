@@ -1,0 +1,14 @@
+PA0     ADC_IN0
+PA1     M1_U_A
+PA2     M1_COM
+PA3     ADC_BAT
+PA4     M1_U_B
+PA5     M1_U_C
+PA6     CUR
+PA7     M1_C_LIN
+PB0     M1_B_LIN
+PB1     M1_A_LIN
+PA8     M1_C_HIN
+PA9     M1_B_HIN
+PA10    M1_A_HIN
+PB4     ESC
